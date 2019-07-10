@@ -41,7 +41,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-1. To install source files use git to clone files from https://github.com/danhunlee/friendFinder.
+1. To install source files use git to clone files from https://github.com/danhunlee/friendFinders.
 2. In a bash terminal or Visual Code terminal navigate to the directory that you downloaded the files from github.
 3. Install the Node package (express) by entering the following in the terminal:   
     *npm install* 
@@ -74,7 +74,7 @@ Source files have been extensively tested by displaying pages in Visual Code.
 
 ## Deployment
 
-Navigate to https://github.com/danhunlee/friendFinder to clone.
+Navigate to https://github.com/danhunlee/friendFinders to clone.
 
 ## Built With
 
